@@ -2,6 +2,10 @@
  History
 =========
 
+v0.2.6
+======
+Switched to requiring setuptools for installation due to the fact that distribute is deprecated.
+
 v0.2.5
 ======
 * Search page styling. (`@russell`_)
